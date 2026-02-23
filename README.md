@@ -13,7 +13,4 @@ Environnement .NET Core sous Docker avec Visual Studio Code et acces VNC.
 
 ## Stack
 
-- Docker
-- .NET Core
-- Visual Studio Code
-- VNC
+[![Stack](https://skillicons.dev/icons?i=vscode,dotnet,docker,linux&theme=dark)](https://skillicons.dev)
